@@ -1,4 +1,4 @@
-# Kristian's Cybersecurity Project Portfolio 🔐
+# Kristian's Cybersecurity Project Portfolio 
 
 I am passionate about cybersecurity, technology, and solving difficult problems. My career in the United States Space Force has given me extensive experience analyzing complex data, identifying patterns, and supporting high-stakes operations. Today, I am focused on applying those skills to cybersecurity, where I enjoy building tools, automating processes, exploring emerging technologies, and continuously learning. I am particularly interested in threat hunting, cloud security, artificial intelligence, and leveraging technology to support meaningful missions and create lasting impact.
 
